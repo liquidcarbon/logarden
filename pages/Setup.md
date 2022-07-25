@@ -1,0 +1,2 @@
+- It was easy to login with GitHub but they say GitHub [integration will go away soon](https://discord.com/channels/725182569297215569/735735090784632913/861656585578086400)
+-
